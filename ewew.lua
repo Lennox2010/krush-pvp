@@ -16,7 +16,7 @@ Tab:AddButton({
     Callback = function()
               print("button pressed")
             MakeScriptHub()
-            loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/Aimbot-V2/main/Resources/Scripts/Main.lua"))()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/Lennox2010/2d3d/main/23323.lua"))()
       end
 })
 
